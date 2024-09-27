@@ -10,6 +10,12 @@ public class Main {
         System.out.println("answer01 = " + Arrays.toString(answer01));
         System.out.println("answer02 = " + Arrays.toString(answer02));
         System.out.println("answer03 = " + Arrays.toString(answer03));
+
+        String QUESTION02_ANSWER01 = Question02.solution("Zbcdefg");
+        String QUESTION02_ANSWER02 = Question02.solution("abcXYZxyzABC");
+
+        System.out.println("QUESTION02_ANSWER01 = " + QUESTION02_ANSWER01);
+        System.out.println("QUESTION02_ANSWER02 = " + QUESTION02_ANSWER02);
     }
 
 }
