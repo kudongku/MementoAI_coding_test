@@ -1,6 +1,8 @@
 # MementoAI 인턴 코딩테스트 해설
-- src/main/java/Question class에 solution method로 솔루션을 구현해놨습니다.
+- src/main/java/Question class에 solution method로 솔루션을 구현했습니다.
 - src/main/java/Main class에 문제에서 제시된 예시와 제가 추가한 예시를 작성해놓고, 출력하였습니다.
+- src/test/java/Question class에서 위 언급된 예시들을 테스트 코드로 실행하게끔 구현했습니다.
+- ![img.png](src/test/resources/img.png)
 ---
 ## 1) 제일 작은 수 제거하기
 ```java
